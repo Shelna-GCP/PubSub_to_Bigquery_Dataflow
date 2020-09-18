@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "involuted-tuner-287607",
+  "private_key_id": "b523f89b33035ee56eb78c7621970c9174db0b5c",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCRJb3UyNmAdl1+\nA6hwGDiX8eoge+7M4044PTZMaNk/NrnHcO/L+ps6QFSroxI1n2cmAfKL1NVrvuVA\ntk6v2Ek0Nv4+JYYcLAmfgTUlumDVJSBVtd9ojFggWUaMtqBLKpIxAwKck6OoPpD7\ndUv+6X0hN3v3hj+sB1jznHXGTL0qPH9dHKmu4Vd8qIEAIeZTTZUQ2AxFf3QEPtMm\n6rKK/taOnNJYN6gP0+3PoSc5EEkRsgAMBfYKXtpfSUs9j3GO1t1iD1niw4xKjPA9\n5wKuM5jpsw8NHeaOAVkITdEf/KOJ+fN0gFFEy0St+r4lGatRuKqBimODT74ovrJB\n9IkYINc9AgMBAAECggEABsP2Vvh8sODzhyfm/kCWxLhVNCnqrdirgPITeZjKhYiI\nvMveFYkrGpo8iBqMAv1Y2rvtAQkM4J6Pg4Zr4QTpFpq4m492spH36dwlLMrE8DJw\nkSYu0Wn3Qpy+rdjmXFKR6WBtSvyTvIgcDGiBgBKEj1uNdvJmPd/CzOoeUD2r9I+2\n2wPtL+Le4V+kdiGUc3jclBmhu8yAh50nXbgzen1q2OooAKzDoCTvqTvg/F6O13C/\ncpxyn51GjTdJubLyLHRTqzYqIEEC6NE7N0BN/j291jEEbSYQRmi6b0Tx0unjsP0l\n96IAkMrBcSUvJ6+YwSEksY3OPZkhERZiE+HCUryuyQKBgQDGFrweggH8Vhoug4dj\nXffmwjvdSu6+tBeeo8iW+2C5AjRmZaC8HTUbdlI75nxv2x30048ZZjfKIP+69ZAs\nzkaawxHCfW2Yevd9CckH3LldUDTB+y9OIcVglf13aB1SV11OogoNf8kZyunIQ86/\nRRZ3QQFTy4yqLz139ZyJXmuz2QKBgQC7lMtAP9QKiB9r61N1u+HBP/1Y3ZddNFtV\nNNVzz7yCCx5+GvXuHQUe47UEENnD4p7HtRboXlo2OmdnF7uQ0AZ57azsO7HUZhV1\nLKgm5TGRe7abfyEdVoy6iV68aMO3R/QTcM/gWnzbmIh17B/J/Cy40amzBI7qzwqW\n5nkK2ch0BQKBgGq8O1cw9EL0Xh0sEBqRuo8jn8AorSYiwgtf8yivgLmPn46BOi/C\niSgoBD10fx6CcczG5fdopa0LROCHis0pxM+FRp+GmDQuJgbA7AqJe3P1UMgpQZ8X\nAVR+3Vmmxw3kN0m0dDg7368/L+MR7mgPoQBXDZEKP9w/oh5uQI+gSeZZAoGALq4P\ninSX2usXDq8oPNM9ke7PqC60vUALPoAAYmqe2anUs8MX0mKsZIx7/oAHASVDKCWb\nhsX8IySTmOciCR6Ljgokj0EnttiUnG05hzxgAnlL7xRK9FcWfFE1HyPfGJwyVCgt\nwwIhsjAaPWY+XvB/XJroZSFMQ4i0dOrz0kxyAtUCgYBsZlV3mlVqcqfWg9T3CKHr\ntbxEOO8q6aP0/4HNIRg7g0gYIt/b6Uu+1O3Uy3AxKd7FNBnFL6Q4ndtJqZIrxCWY\n0e4ou+jLF0TTs9f/FGmtrbGT4TkJU5FlKdMtdH76Z2A9Ioo0ThOwLreURClSxsV0\n55mHV97SOkxkli8mI1czAg==\n-----END PRIVATE KEY-----\n",
+  "client_email": "puneetsa@involuted-tuner-287607.iam.gserviceaccount.com",
+  "client_id": "117533988369512969507",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/puneetsa%40involuted-tuner-287607.iam.gserviceaccount.com"
+}
